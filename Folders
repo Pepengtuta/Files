@@ -11,7 +11,7 @@ OF21: https://drive.google.com/file/d/1klWtPMfaII1ipMoB9026RBK2NWZW_Jm2/view?usp
 msiexec /i msi.msi PASSWORD=? /qn: https://drive.google.com/file/d/1sLbocYBo3NTCwu3vG8PsZuEyUAdigESZ/view?usp=sharing 
 cc106: music https://drive.google.com/file/d/1pp9lm9wV92Ty4NE24p7tUuMJBVTcAfyP/view?usp=sharing
 cc106 Dental Clinic : https://drive.google.com/file/d/10HiHcif_RcQL58Izc5jm8k_PRIDL4rpx/view?usp=sharing
-
+lifetime: https://drive.google.com/drive/folders/1yFR2Xrf3Qmak-Jvhh3AhO0EDvWivClKm?usp=sharing
 <VirtualHost *:80>
     DocumentRoot "Path"
     ServerName sample.local
